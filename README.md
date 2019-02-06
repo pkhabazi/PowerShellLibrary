@@ -1,3 +1,3 @@
-# Power Shell Library
+# PowerShellLibrary
 
-##
+A place to store PS code for reuse
